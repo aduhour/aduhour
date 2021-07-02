@@ -2,7 +2,7 @@
 - 👀 Me interesa la Ecología, R, latex, OpenStreetMap y el software libre en general)
 - 🌱 Estoy aprendiendo a analizar información geográfica en R
 - 💞️ Me interesa colaborar en la mejora del mapa de #OpenStreetMap
-- 📫 How to reach me ...
+- 📫 Para contactarme me podés escribir a: aeduhour@yahoo.com.ar
 
 <!---
 aduhour/aduhour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
