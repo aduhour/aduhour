@@ -1,5 +1,5 @@
 - 👋 Hola! Soy Andrés (@aduhour)
-- 👀 Me interesa la Ecología, R, latex, OpenStreetMap y el software libre en general)
+- 👀 Me interesa la Ecología, R, latex, OpenStreetMap y el software libre en general.
 - 🌱 Estoy aprendiendo a analizar información geográfica en R
 - 💞️ Me interesa colaborar en la mejora del mapa de #OpenStreetMap
 - 📫 Para contactarme me podés escribir a: aeduhour@yahoo.com.ar
